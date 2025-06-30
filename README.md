@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I’m Shoaib
 
-<!--
-**itsshoaibsid/itsshoaibsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in building modern web experiences with a focus on **Next.js**, **Tailwind CSS**, and **JavaScript ecosystems**.
 
-Here are some ideas to get you started:
+🚀 A Living Space for My Projects, Blogs & Passion 
+🔗 [shoaibsid.dev](https://shoaibsid.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Take a look at my latest projects, blogs, and full-stack work — designed to be fast, minimal, and SEO-friendly.
+
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel)](https://shoaibsid.dev)
+
+---
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+
+---
+
+## ✍️ Latest Blog Posts
+*(Auto-sync from your Ghost CMS is possible with RSS or manually updated)*
+
+- 🧩 **[Improving Web Performance in Next.js Projects (Real Examples)](https://shoaibsid.dev/blog/performance-nextjs)**
+- 🔍 **Frontend vs Full-Stack in 2025: What No One Tells You**
+
+_Read more at [shoaibsid.dev/blog](https://shoaibsid.dev/blog)_
+
+---
+
+## 📬 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/itsshoaibsid/)
+- [Twitter](https://twitter.com/itsshoaibsid)
+- [Portfolio](https://shoaibsid.dev)
+- Email: `hi@shoaibsid.dev`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibsid&show_icons=true&theme=react&count_private=true&hide=issues" alt="GitHub Stats" />
+</p>
