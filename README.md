@@ -29,7 +29,6 @@ Take a look at my latest projects, blogs, and full-stack work — designed to be
 ---
 
 ## ✍️ Latest Blog Posts
-*(Auto-sync from your Ghost CMS is possible with RSS or manually updated)*
 
 - 🧩 **[Improving Web Performance in Next.js Projects (Real Examples)](https://shoaibsid.dev/blog/performance-nextjs)**
 - 🔍 **Frontend vs Full-Stack in 2025: What No One Tells You**
