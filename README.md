@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Shoaib
 
-I'm a passionate **Full Stack Developer** from India 🇮🇳, specializing in building modern web experiences with a focus on **Next.js**, **Tailwind CSS**, and **JavaScript ecosystems**.
+I'm a passionate **Full Stack Developer** from India 🇮🇳, skilled in building end-to-end web applications with a strong foundation in both **frontend** and **backend** technologies.  
+
+I specialize in delivering fast, scalable, and user-friendly experiences using **Next.js**, **Tailwind CSS**, **Node.js**, **Express**, and **MongoDB**, along with modern tools across the **JavaScript ecosystem**.
+
 
 🚀 A Living Space for My Projects, Blogs & Passion 
 🔗 [shoaibsid.dev](https://shoaibsid.dev)
