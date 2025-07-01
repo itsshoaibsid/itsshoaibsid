@@ -46,9 +46,3 @@ _Read more at [shoaibsid.dev/blog](https://shoaibsid.dev/blog)_
 - [Twitter](https://twitter.com/itsshoaibsid)
 - [Portfolio](https://shoaibsid.dev)
 - Email: `hi@shoaibsid.dev`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshoaibsid&show_icons=true&theme=react&count_private=true&hide=issues" alt="GitHub Stats" />
-</p>
