@@ -33,8 +33,8 @@ Take a look at my latest projects, blogs, and full-stack work — designed to be
 
 ## ✍️ Latest Blog Posts
 
-- 🧩 **[Improving Web Performance in Next.js Projects (Real Examples)](https://shoaibsid.dev/blog/performance-nextjs)**
-- 🔍 **Frontend vs Full-Stack in 2025: What No One Tells You**
+- 🧩 **[Frontend vs Full-Stack Development in 2025: What No One Tells You – A Developer’s Perspective](https://www.shoaibsid.dev/blog/frontend-vs-full-stack-development-in-2025-what-no-one-tells-you-a-developers-perspective)**
+- 🔍 **[Improving Web Performance in Next.js Projects (Real Examples)](https://www.shoaibsid.dev/blog/improving-web-performance-in-next-js-projects-real-examples)**
 
 _Read more at [shoaibsid.dev/blog](https://shoaibsid.dev/blog)_
 
