@@ -2,12 +2,13 @@
 
 A **Full Stack Developer** from India 🇮🇳, skilled in building end-to-end web applications with a strong foundation in both **frontend** and **backend** technologies.  
 
+
 🚀 Building YumeUI....
-🔗 [yumeui.com](https://yumeui.com)
+[![YumeUI](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel)](https://yumeui.com)
+
 
 Take a look at my latest projects, blogs, and full-stack work — designed to be fast, minimal, and SEO-friendly.
-
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel)](https://shoaibsid.dev)
+🔗 [yumeui.com](https://yumeui.com)
 
 ---
 
