@@ -14,22 +14,6 @@ Take a look at my latest projects, blogs, and full-stack work — designed to be
 
 ---
 
-## 🛠️ Tech Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat&logo=framer)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
-
----
 
 ## ✍️ Latest Blog Posts
 
