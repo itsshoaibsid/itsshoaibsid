@@ -5,7 +5,7 @@ A **Full Stack Developer** from India 🇮🇳, skilled in building end-to-end w
 
 ## 🚀 Building [YumeUI](https://yumeui.com)
 
-A modern UI marketplace offering production-ready, beautifully crafted components and templates for React, Next.js, and Tailwind CSS — made for developers and designers to build faster with clean, scalable code.
+A modern UI marketplace offering production-ready, beautifully crafted components and templates for React, Next.js, and Tailwind CSS with clean, scalable code.
 
 [![Visit YumeUI](https://img.shields.io/badge/Visit-YUMEUI-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://yumeui.com)
 
