@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shoaib
 
-A **Full Stack Developer** from India 🇮🇳, skilled in building end-to-end web applications with a strong foundation in both **frontend** and **backend** technologies.  
+**Full-Stack Web Developer  
 
 
 ## 🚀 Building [YumeUI](https://yumeui.com)
