@@ -2,14 +2,6 @@
 
 # Full-Stack Web Developer  
 
-
-## 🚀 Building [YumeUI](https://yumeui.com)
-
-A modern UI marketplace offering production-ready, beautifully crafted components and templates for React, Next.js, and Tailwind CSS with clean, scalable code.
-
-[![Visit YumeUI](https://img.shields.io/badge/Visit-YUMEUI-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://yumeui.com)
-
-
 ---
 
 
