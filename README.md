@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shoaib
 
-# Software Engineet
+# Software Engineer
 
 ---
 
