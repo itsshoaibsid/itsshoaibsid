@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Shoaib
-
 # Software Engineer
 
 ---
