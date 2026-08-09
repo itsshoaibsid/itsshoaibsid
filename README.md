@@ -17,5 +17,3 @@ _Read more at [shoaibsid.dev/blog](https://shoaibsid.dev/blog)_
 
 - [LinkedIn](https://www.linkedin.com/in/itsshoaibsid/)
 - [Twitter](https://twitter.com/itsshoaibsid)
-- [Portfolio](https://shoaibsid.dev)
-- Email: `hi@shoaibsid.dev`
